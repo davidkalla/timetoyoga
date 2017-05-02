@@ -1,6 +1,6 @@
     <div id="header">
       <div class="container">   				
-  			<div id="logo">
+  			<div id="logo" class="logo">
   				<a href="<?php echo home_url(); ?>/" title="<?php bloginfo('name'); ?>">
   					<img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.jpg" alt="<?php bloginfo('name'); ?>" title="<?php bloginfo('name'); ?>" />
   				</a>
